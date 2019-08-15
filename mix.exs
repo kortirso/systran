@@ -8,7 +8,7 @@ defmodule Systran.MixProject do
   def project do
     [
       app: :systran,
-      version: "0.0.1",
+      version: "0.1.0",
       elixir: "~> 1.7",
       description: @description,
       build_embedded: Mix.env == :prod,

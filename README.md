@@ -10,7 +10,7 @@ by adding `systran` to your list of dependencies in `mix.exs`:
 ```elixir
 def deps do
   [
-    {:systran, "~> 0.0.1"}
+    {:systran, "~> 0.1.0"}
   ]
 end
 ```
